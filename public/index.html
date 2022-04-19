@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap"
+    />
+    <title>AndréTesteCroctTech</title>
+    <style>
+      #AndréTesteCroctTech {
+        border-radius: 50%;
+      }
+    </style>
+  </head>
+  <body style="margin: 0; line-height: normal">
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <img alt="AndréTesteCroctTech" id="AndréTesteCroctTechr">
+
+    <script>
+      function generateAndréTesteCroctTech(text, 
+      foregroundcolor = "white",
+      backgroundcolo = "black"
+      ) {
+const canvas= document. createElement("canvas");
+const constext = canvas.getContext("2d");
+
+canvas.width = 200;
+canvas.height = 200;
+
+
+document.body.appenChild(canvas);
+      {
+
+    
+      // Draw background 
+context.fillStyle = backgroundcolor;
+context.fillRect(0, 0, canvas.width, canvas.height);
+
+document.body.appenChild(canvas);
+
+      //Draw text
+      context.font = "bold 100px Assistant";
+      context.fillStyle = foregroundcolor;
+      context.textAlign = "center";
+      context.textBaseline = "middle";
+      context.fillTexit(text, canvas.width / 2, canvas.height / 2);
+
+      return canvas.toDataurl("image/png");
+      
+    }
+
+      document.getElementById("AndréTesteCroctTech").src = generateAndréTesteCroctTech("AL", "white", "#009578");
+    </script>
+  </body>
+  
+  </html>

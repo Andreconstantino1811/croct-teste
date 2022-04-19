@@ -1,0 +1,251 @@
+.rectangleDiv {
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  border-radius: 8px;
+  background-color: #f2f5f8;
+  border: 2px dashed #c7cdd3;
+  box-sizing: border-box;
+  width: 557px;
+  height: 181px;
+}
+.labelDiv,
+.labelDiv1 {
+  position: absolute;
+  height: 14.12%;
+  width: 47.2%;
+  top: 50.28%;
+  right: 17.54%;
+  bottom: 35.59%;
+  left: 35.26%;
+  line-height: 180%;
+  display: inline-block;
+}
+.labelDiv1 {
+  width: 22.24%;
+  top: 36.16%;
+  right: 27.12%;
+  bottom: 49.72%;
+  left: 50.63%;
+  font-weight: 500;
+  color: #495567;
+}
+.media2Icon {
+  position: absolute;
+  top: 69px;
+  left: 252px;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.image1Icon {
+  position: absolute;
+  top: 32px;
+  left: 31px;
+  border-radius: 57px;
+  width: 114px;
+  height: 114px;
+  object-fit: cover;
+}
+.rectangleDiv1,
+.updateDiv {
+  position: absolute;
+  top: 886px;
+  left: 116px;
+  width: 553px;
+  height: 177px;
+}
+.rectangleDiv1 {
+  top: 0;
+  left: 0;
+  border-radius: 8px;
+  background-color: #f2f5f8;
+}
+.labelDiv2,
+.labelDiv3 {
+  position: absolute;
+  height: 16.38%;
+  width: 31.28%;
+  top: 29.94%;
+  right: 36.71%;
+  bottom: 53.67%;
+  left: 32.01%;
+  letter-spacing: -0.02em;
+  line-height: 180%;
+  display: inline-block;
+}
+.labelDiv3 {
+  width: 12.48%;
+  top: 47.46%;
+  right: 55.52%;
+  bottom: 36.16%;
+  text-decoration: underline;
+  font-weight: 500;
+  color: #3d485f;
+  cursor: pointer;
+}
+.rectangleDiv2 {
+  position: absolute;
+  top: 32px;
+  left: 32px;
+  border-radius: 72.5px;
+  background-color: #c3cbd5;
+  width: 113px;
+  height: 113px;
+}
+.attentionIcon {
+  position: absolute;
+  top: 79px;
+  left: 79px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.errorDiv,
+.rectangleDiv3 {
+  position: absolute;
+  width: 553px;
+}
+.errorDiv {
+  top: 390px;
+  left: 116px;
+  height: 177px;
+  cursor: pointer;
+  font-size: 16px;
+  color: #c64d32;
+}
+.rectangleDiv3 {
+  top: 229.44px;
+  left: 0;
+  border-radius: 8px;
+  background-color: #f2f5f8;
+  height: 191.56px;
+}
+.labelDiv4 {
+  position: absolute;
+  height: 7.46%;
+  width: 6.51%;
+  top: 64.52%;
+  right: 61.48%;
+  bottom: 28.02%;
+  left: 32.01%;
+  letter-spacing: -0.02em;
+  line-height: 180%;
+  display: inline-block;
+}
+.closeIcon,
+.closeIcon1 {
+  position: absolute;
+  top: 264.07px;
+  left: 508px;
+  width: 20px;
+  height: 21.65px;
+  overflow: hidden;
+}
+.closeIcon1 {
+  top: 0;
+}
+.image1Icon1 {
+  position: absolute;
+  top: 264.07px;
+  left: 31px;
+  border-radius: 57px;
+  width: 114px;
+  height: 123.38px;
+  object-fit: cover;
+}
+.slider1DiscretAKnobCopy {
+  position: absolute;
+  height: 3.08%;
+  width: 49.91%;
+  top: 74.04%;
+  right: 18.08%;
+  bottom: 22.88%;
+  left: 32.01%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.rectangleDiv4 {
+  position: absolute;
+  top: 357.15px;
+  left: 344px;
+  border-radius: 16px;
+  background-color: #3d485f;
+  width: 109px;
+  height: 34.63px;
+}
+.cropDiv,
+.labelDiv5 {
+  position: absolute;
+  cursor: pointer;
+}
+.labelDiv5 {
+  height: 7.46%;
+  width: 6.87%;
+  top: 85.35%;
+  right: 24.41%;
+  bottom: 7.2%;
+  left: 68.72%;
+  font-size: 14px;
+  letter-spacing: -0.02em;
+  line-height: 180%;
+  font-weight: 500;
+  color: #fff;
+  display: inline-block;
+}
+.cropDiv {
+  top: 390px;
+  left: 116px;
+  width: 553px;
+  height: 421px;
+  font-size: 16px;
+}
+.labelDiv6,
+.labelDiv7 {
+  position: absolute;
+  height: 14.12%;
+  width: 47.2%;
+  top: 49.72%;
+  right: 26.4%;
+  bottom: 36.16%;
+  left: 26.4%;
+  line-height: 180%;
+  display: inline-block;
+}
+.labelDiv7 {
+  width: 22.24%;
+  top: 35.59%;
+  right: 35.99%;
+  bottom: 50.28%;
+  left: 41.77%;
+  font-weight: 500;
+  color: #495567;
+  cursor: pointer;
+}
+.media2Icon1 {
+  position: absolute;
+  top: 68px;
+  left: 203px;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.uploadDiv {
+  position: absolute;
+  top: 142px;
+  left: 116px;
+  width: 553px;
+  height: 177px;
+  cursor: pointer;
+}
+.canvasDiv {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1454px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 14px;
+  color: #677489;
+  font-family: Inter;
+}
